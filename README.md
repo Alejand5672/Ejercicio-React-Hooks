@@ -231,3 +231,5 @@ Normalmente el proyecto se ejecuta en:
 ```txt
 http://localhost:5173
 ```
+## video
+https://youtu.be/e_2PjB0JUec
